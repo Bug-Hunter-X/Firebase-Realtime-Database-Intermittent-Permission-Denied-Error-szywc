@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws a "Permission denied" error even when the security rules appear to be correctly configured. This often happens intermittently and without clear triggers.
